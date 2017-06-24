@@ -178,5 +178,6 @@ public class LogiController {
 	public void method2(){
 		System.out.println("Method2");
 		System.out.println("Helo");
+		System.out.println("Hi");
 	}
 }
