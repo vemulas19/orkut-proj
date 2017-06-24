@@ -164,7 +164,7 @@ public class LogiController {
 	}
 
 	public void reg(){
-		System.out.println("Bug fixed~!~!");
+		System.out.println("Bug fixed!!");
 		System.out.println("tet");
 	}
 	public void testingGit(){
