@@ -162,6 +162,9 @@ public class LogiController {
 		
 		return "editStudent";
 	}
-	
+
+	public void testingGit(){
+		System.out.println("Testing Git In progress!!");
+	}
 	
 }
