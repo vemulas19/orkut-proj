@@ -166,5 +166,8 @@ public class LogiController {
 	public void testingGit(){
 		System.out.println("Testing Git In progress!!");
 	}
-	
+
+	public void loginImplementation(){
+		System.out.println("Login Controller");
+	}
 }
