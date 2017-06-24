@@ -1,0 +1,13 @@
+com\orkut\RegistrationController.class
+com\orkut\TestBatch.class
+com\orkut\Test.class
+com\orkut\hibernate\dao\LoginHibernateDao.class
+com\orkut\jdbc\dao\LoginJdbcDao.class
+com\orkut\aspect\LoggingAspect.class
+com\orkut\UpdateAndDeleteController.class
+com\orkut\aspect\ValidationAspect.class
+com\orkut\Stud.class
+com\orkut\LogiController.class
+com\orkut\pojo\Student.class
+com\orkut\interf\dao\ILoginDao.class
+com\orkut\Passport.class
