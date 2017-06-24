@@ -163,6 +163,9 @@ public class LogiController {
 		return "editStudent";
 	}
 
+	public void reg(){
+		System.out.println("tet");
+	}
 	public void testingGit(){
 		System.out.println("Testing Git In progress!!");
 	}
