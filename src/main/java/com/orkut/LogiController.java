@@ -173,7 +173,10 @@ public class LogiController {
 
 	public void loginImplementation(){
 		System.out.println("Login Controller");
+
 		System.out.println("Hi");
+
+		System.out.println("Helo im");
 	}
 	
 	public void method2(){
